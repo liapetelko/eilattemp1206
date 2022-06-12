@@ -1,5 +1,3 @@
-import turtle
-import tkinter as tk
 from turtle import update
 import streamlit as st
 import pandas as pd
